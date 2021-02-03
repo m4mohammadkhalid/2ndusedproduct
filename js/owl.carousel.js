@@ -1,8 +1,4 @@
-/**
- * Owl Carousel v2.3.4
- * Copyright 2013-2018 David Deutsch
- * Licensed under: SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICENSE
- */
+
 /**
  * Owl carousel
  * @version 2.3.4
@@ -2605,7 +2601,7 @@
  * @author Bartosz Wojciechowski
  * @author Artus Kolanowski
  * @author David Deutsch
- * @author Tom De Caluwé
+ * @author Tom De Caluwï¿½
  * @license The MIT License (MIT)
  */
 ; (function ($, window, document, undefined) {
