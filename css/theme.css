@@ -830,6 +830,7 @@ nav.navbar-sticked .navigation-main {
 nav .container,
 nav .navigation {
     position: relative;
+    text-align: center;
 }
 
 nav .logo {
